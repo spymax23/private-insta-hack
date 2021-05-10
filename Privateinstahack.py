@@ -38,7 +38,7 @@ os.system("figlet Instagram Hacking")
 
 print
 
-print "Author   : M Faizan (Cyber Expert) "
+print "Author   : CTL"
 
 print "Instagram Cookies Stealer : "
 
