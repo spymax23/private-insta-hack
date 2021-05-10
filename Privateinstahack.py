@@ -76,7 +76,7 @@ time.sleep(3)
 
 def main():
 
-	banner()
+
 
 print("     @shona.selly  ")
 
@@ -102,42 +102,6 @@ print("      @btw_im_falak ")
 
 print("     @wahabmalick94  ")
 
-print("       ")
 
-print("       ")
 
-print("       ")
 
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
-
-print("       ")
